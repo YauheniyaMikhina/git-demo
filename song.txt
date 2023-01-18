@@ -2,12 +2,9 @@ sword and spear
 wall of shields
 standing strong
 on this there chosen battle field
-<<<<<<< HEAD
 
 Form the lines 
 Shield by shield
 Side by side
 We're marching into destiny
 ///////
-=======
->>>>>>> parent of 7323efb (finish second part)
